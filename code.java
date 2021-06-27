@@ -26,7 +26,7 @@ public class edukoders {
         }
         else if(age>60)
         {
-            System.out.println("mid aged");
+            System.out.println("old aged");
         }
         else
         {
