@@ -20,11 +20,11 @@ public class edukoders {
         
         
         //control structures
-        if(age>=18)
+        if(age>=18 && age<=60)
         {
           System.out.println("adult");  
         }
-        else if(age<=60)
+        else if(age>60)
         {
             System.out.println("mid aged");
         }
